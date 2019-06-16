@@ -1,1 +1,1 @@
-create table account(name text);
+create table account(id serial primary key, name text);

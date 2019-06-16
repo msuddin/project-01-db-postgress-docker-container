@@ -1,1 +1,1 @@
-insert into account (name) values ('shahin');
+insert into account (name) values ('batman'), ('superman'), ('wonder women');
