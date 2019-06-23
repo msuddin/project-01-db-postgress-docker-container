@@ -1,4 +1,4 @@
-# sample-postgress-docker
+# project-01-db-postgress-docker-container
 
 ## Purpose
 
@@ -8,6 +8,7 @@ What is the purpose of this project
 Answer:
 * To create a postgres db inside a docker container
 * To run start-up scripts automatically once the container is running
+* To serve as a db for project-01
 
 ## Instructions
 From the root directory of the project, run the following command to create the postgres container and run the scripts:
